@@ -1,0 +1,21 @@
+{
+  "identifier": "cochwy-Work_Session_12-16-22_Transit_Program",
+  "title": "Work Session 12-16-22 Transit Program",
+  "date": "2022-12-16",
+  "season": 11,
+  "repo": "therealwindycity/cheyenne-archives-2022",
+  "release_tag": "speaker-videos-2022-12-16-sit_Program",
+  "release_url": "https://github.com/therealwindycity/cheyenne-archives-2022/releases/tag/speaker-videos-2022-12-16-sit_Program",
+  "archive_embed_url": "https://archive.org/embed/cochwy-Work_Session_12-16-22_Transit_Program",
+  "archive_stream_url": "https://archive.org/download/cochwy-Work_Session_12-16-22_Transit_Program/Work_Session_12-16-22_Transit_Program.mp4",
+  "cast": [
+    {
+      "speaker": "Speaker_01_Voice_Cluster_01",
+      "clips_count": 1,
+      "size_bytes": 238083951,
+      "zip_url": "https://github.com/therealwindycity/cheyenne-archives-2022/releases/download/speaker-videos-2022-12-16-sit_Program/Speaker_01_Voice_Cluster_01_01_clips.zip"
+    }
+  ],
+  "ordinances": [],
+  "turns_count": 1
+}
