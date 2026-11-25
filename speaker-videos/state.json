@@ -142,6 +142,19 @@
       "speakers": 1,
       "clips": 1,
       "status": "published"
+    },
+    "cochwy-Public_Services_Committee_11-22-22": {
+      "identifier": "cochwy-Public_Services_Committee_11-22-22",
+      "date": "2022-11-23",
+      "title": "Public Services Committee 11-22-22",
+      "repo": "therealwindycity/cheyenne-archives-2022",
+      "release_tag": "speaker-videos-2022-11-23-ee_11-22-22",
+      "release_url": "https://github.com/therealwindycity/cheyenne-archives-2022/releases/tag/speaker-videos-2022-11-23-ee_11-22-22",
+      "index_path": "speaker-videos/2022-11-23_Public_Services_Committee_11-22-22/SPEAKER_INDEX.md",
+      "episode_json": "speaker-videos/2022-11-23_Public_Services_Committee_11-22-22/episode.json",
+      "speakers": 1,
+      "clips": 1,
+      "status": "published"
     }
   }
 }
