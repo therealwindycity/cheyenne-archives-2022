@@ -1,0 +1,782 @@
+[
+  {
+    "global_idx": 1,
+    "speaker": "Speaker_01_Voice_Cluster_05",
+    "speaker_turn": 1,
+    "start": 3.52,
+    "end": 16.06,
+    "hms": "00h00m04s-00h00m16s",
+    "file_name": "Speaker_01_Voice_Cluster_05_turn01_global001_00h00m04s-00h00m16s.mp4",
+    "text_preview": "[Uncaptioned archival audio segment \u2014 acoustically diarized]"
+  },
+  {
+    "global_idx": 2,
+    "speaker": "Speaker_02_Voice_Cluster_07",
+    "speaker_turn": 1,
+    "start": 22.53,
+    "end": 110.66,
+    "hms": "00h00m23s-00h01m51s",
+    "file_name": "Speaker_02_Voice_Cluster_07_turn01_global002_00h00m23s-00h01m51s.mp4",
+    "text_preview": "[Uncaptioned archival audio segment \u2014 acoustically diarized] [Uncaptioned archival audio segment \u2014 acoustically diarized]"
+  },
+  {
+    "global_idx": 3,
+    "speaker": "Speaker_03_Voice_Cluster_04",
+    "speaker_turn": 1,
+    "start": 118.34,
+    "end": 172.29,
+    "hms": "00h01m58s-00h02m52s",
+    "file_name": "Speaker_03_Voice_Cluster_04_turn01_global003_00h01m58s-00h02m52s.mp4",
+    "text_preview": "[Uncaptioned archival audio segment \u2014 acoustically diarized] [Uncaptioned archival audio segment \u2014 acoustically diarized] [Uncaptioned archival audio segment \u2014 acoustically diarized]"
+  },
+  {
+    "global_idx": 4,
+    "speaker": "Speaker_04_Voice_Cluster_02",
+    "speaker_turn": 1,
+    "start": 175.3,
+    "end": 178.94,
+    "hms": "00h02m55s-00h02m59s",
+    "file_name": "Speaker_04_Voice_Cluster_02_turn01_global004_00h02m55s-00h02m59s.mp4",
+    "text_preview": "[Uncaptioned archival audio segment \u2014 acoustically diarized]"
+  },
+  {
+    "global_idx": 5,
+    "speaker": "Speaker_05_Voice_Cluster_10",
+    "speaker_turn": 1,
+    "start": 182.78,
+    "end": 214.78,
+    "hms": "00h03m03s-00h03m35s",
+    "file_name": "Speaker_05_Voice_Cluster_10_turn01_global005_00h03m03s-00h03m35s.mp4",
+    "text_preview": "[Uncaptioned archival audio segment \u2014 acoustically diarized]"
+  },
+  {
+    "global_idx": 6,
+    "speaker": "Speaker_02_Voice_Cluster_07",
+    "speaker_turn": 2,
+    "start": 217.15,
+    "end": 221.12,
+    "hms": "00h03m37s-00h03m41s",
+    "file_name": "Speaker_02_Voice_Cluster_07_turn02_global006_00h03m37s-00h03m41s.mp4",
+    "text_preview": "[Uncaptioned archival audio segment \u2014 acoustically diarized]"
+  },
+  {
+    "global_idx": 7,
+    "speaker": "Speaker_04_Voice_Cluster_02",
+    "speaker_turn": 2,
+    "start": 223.42,
+    "end": 237.18,
+    "hms": "00h03m43s-00h03m57s",
+    "file_name": "Speaker_04_Voice_Cluster_02_turn02_global007_00h03m43s-00h03m57s.mp4",
+    "text_preview": "[Uncaptioned archival audio segment \u2014 acoustically diarized]"
+  },
+  {
+    "global_idx": 8,
+    "speaker": "Speaker_06_Voice_Cluster_06",
+    "speaker_turn": 1,
+    "start": 243.52,
+    "end": 328.51,
+    "hms": "00h04m04s-00h05m29s",
+    "file_name": "Speaker_06_Voice_Cluster_06_turn01_global008_00h04m04s-00h05m29s.mp4",
+    "text_preview": "[Uncaptioned archival audio segment \u2014 acoustically diarized] [Uncaptioned archival audio segment \u2014 acoustically diarized]"
+  },
+  {
+    "global_idx": 9,
+    "speaker": "Speaker_04_Voice_Cluster_02",
+    "speaker_turn": 3,
+    "start": 328.96,
+    "end": 341.12,
+    "hms": "00h05m29s-00h05m41s",
+    "file_name": "Speaker_04_Voice_Cluster_02_turn03_global009_00h05m29s-00h05m41s.mp4",
+    "text_preview": "[Uncaptioned archival audio segment \u2014 acoustically diarized]"
+  },
+  {
+    "global_idx": 10,
+    "speaker": "Speaker_03_Voice_Cluster_04",
+    "speaker_turn": 2,
+    "start": 342.53,
+    "end": 344.51,
+    "hms": "00h05m43s-00h05m45s",
+    "file_name": "Speaker_03_Voice_Cluster_04_turn02_global010_00h05m43s-00h05m45s.mp4",
+    "text_preview": "[Uncaptioned archival audio segment \u2014 acoustically diarized]"
+  },
+  {
+    "global_idx": 11,
+    "speaker": "Speaker_05_Voice_Cluster_10",
+    "speaker_turn": 2,
+    "start": 348.29,
+    "end": 378.88,
+    "hms": "00h05m48s-00h06m19s",
+    "file_name": "Speaker_05_Voice_Cluster_10_turn02_global011_00h05m48s-00h06m19s.mp4",
+    "text_preview": "[Uncaptioned archival audio segment \u2014 acoustically diarized]"
+  },
+  {
+    "global_idx": 12,
+    "speaker": "Speaker_06_Voice_Cluster_06",
+    "speaker_turn": 2,
+    "start": 385.66,
+    "end": 427.52,
+    "hms": "00h06m26s-00h07m08s",
+    "file_name": "Speaker_06_Voice_Cluster_06_turn02_global012_00h06m26s-00h07m08s.mp4",
+    "text_preview": "[Uncaptioned archival audio segment \u2014 acoustically diarized]"
+  },
+  {
+    "global_idx": 13,
+    "speaker": "Speaker_03_Voice_Cluster_04",
+    "speaker_turn": 3,
+    "start": 431.49,
+    "end": 438.53,
+    "hms": "00h07m11s-00h07m19s",
+    "file_name": "Speaker_03_Voice_Cluster_04_turn03_global013_00h07m11s-00h07m19s.mp4",
+    "text_preview": "[Uncaptioned archival audio segment \u2014 acoustically diarized]"
+  },
+  {
+    "global_idx": 14,
+    "speaker": "Speaker_07_Voice_Cluster_03",
+    "speaker_turn": 1,
+    "start": 447.49,
+    "end": 455.81,
+    "hms": "00h07m27s-00h07m36s",
+    "file_name": "Speaker_07_Voice_Cluster_03_turn01_global014_00h07m27s-00h07m36s.mp4",
+    "text_preview": "[Uncaptioned archival audio segment \u2014 acoustically diarized]"
+  },
+  {
+    "global_idx": 15,
+    "speaker": "Speaker_08_Voice_Cluster_01",
+    "speaker_turn": 1,
+    "start": 458.94,
+    "end": 498.82,
+    "hms": "00h07m39s-00h08m19s",
+    "file_name": "Speaker_08_Voice_Cluster_01_turn01_global015_00h07m39s-00h08m19s.mp4",
+    "text_preview": "[Uncaptioned archival audio segment \u2014 acoustically diarized]"
+  },
+  {
+    "global_idx": 16,
+    "speaker": "Speaker_04_Voice_Cluster_02",
+    "speaker_turn": 4,
+    "start": 500.61,
+    "end": 513.22,
+    "hms": "00h08m21s-00h08m33s",
+    "file_name": "Speaker_04_Voice_Cluster_02_turn04_global016_00h08m21s-00h08m33s.mp4",
+    "text_preview": "[Uncaptioned archival audio segment \u2014 acoustically diarized]"
+  },
+  {
+    "global_idx": 17,
+    "speaker": "Speaker_03_Voice_Cluster_04",
+    "speaker_turn": 4,
+    "start": 515.39,
+    "end": 520.45,
+    "hms": "00h08m35s-00h08m40s",
+    "file_name": "Speaker_03_Voice_Cluster_04_turn04_global017_00h08m35s-00h08m40s.mp4",
+    "text_preview": "[Uncaptioned archival audio segment \u2014 acoustically diarized]"
+  },
+  {
+    "global_idx": 18,
+    "speaker": "Speaker_01_Voice_Cluster_05",
+    "speaker_turn": 2,
+    "start": 523.33,
+    "end": 530.82,
+    "hms": "00h08m43s-00h08m51s",
+    "file_name": "Speaker_01_Voice_Cluster_05_turn02_global018_00h08m43s-00h08m51s.mp4",
+    "text_preview": "[Uncaptioned archival audio segment \u2014 acoustically diarized]"
+  },
+  {
+    "global_idx": 19,
+    "speaker": "Speaker_06_Voice_Cluster_06",
+    "speaker_turn": 3,
+    "start": 537.02,
+    "end": 720.7,
+    "hms": "00h08m57s-00h12m01s",
+    "file_name": "Speaker_06_Voice_Cluster_06_turn03_global019_00h08m57s-00h12m01s.mp4",
+    "text_preview": "[Uncaptioned archival audio segment \u2014 acoustically diarized] [Uncaptioned archival audio segment \u2014 acoustically diarized] [Uncaptioned archival audio segment \u2014 acoustically diarized] [Uncaptioned archival audio segment \u2014"
+  },
+  {
+    "global_idx": 20,
+    "speaker": "Speaker_03_Voice_Cluster_04",
+    "speaker_turn": 5,
+    "start": 724.48,
+    "end": 737.34,
+    "hms": "00h12m04s-00h12m17s",
+    "file_name": "Speaker_03_Voice_Cluster_04_turn05_global020_00h12m04s-00h12m17s.mp4",
+    "text_preview": "[Uncaptioned archival audio segment \u2014 acoustically diarized]"
+  },
+  {
+    "global_idx": 21,
+    "speaker": "Speaker_06_Voice_Cluster_06",
+    "speaker_turn": 4,
+    "start": 739.2,
+    "end": 771.52,
+    "hms": "00h12m19s-00h12m52s",
+    "file_name": "Speaker_06_Voice_Cluster_06_turn04_global021_00h12m19s-00h12m52s.mp4",
+    "text_preview": "[Uncaptioned archival audio segment \u2014 acoustically diarized]"
+  },
+  {
+    "global_idx": 22,
+    "speaker": "Speaker_02_Voice_Cluster_07",
+    "speaker_turn": 3,
+    "start": 773.06,
+    "end": 808.9,
+    "hms": "00h12m53s-00h13m29s",
+    "file_name": "Speaker_02_Voice_Cluster_07_turn03_global022_00h12m53s-00h13m29s.mp4",
+    "text_preview": "[Uncaptioned archival audio segment \u2014 acoustically diarized]"
+  },
+  {
+    "global_idx": 23,
+    "speaker": "Speaker_02_Voice_Cluster_07",
+    "speaker_turn": 4,
+    "start": 817.79,
+    "end": 862.98,
+    "hms": "00h13m38s-00h14m23s",
+    "file_name": "Speaker_02_Voice_Cluster_07_turn04_global023_00h13m38s-00h14m23s.mp4",
+    "text_preview": "[Uncaptioned archival audio segment \u2014 acoustically diarized] [Uncaptioned archival audio segment \u2014 acoustically diarized]"
+  },
+  {
+    "global_idx": 24,
+    "speaker": "Speaker_06_Voice_Cluster_06",
+    "speaker_turn": 5,
+    "start": 867.58,
+    "end": 973.76,
+    "hms": "00h14m28s-00h16m14s",
+    "file_name": "Speaker_06_Voice_Cluster_06_turn05_global024_00h14m28s-00h16m14s.mp4",
+    "text_preview": "[Uncaptioned archival audio segment \u2014 acoustically diarized] [Uncaptioned archival audio segment \u2014 acoustically diarized] [Uncaptioned archival audio segment \u2014 acoustically diarized]"
+  },
+  {
+    "global_idx": 25,
+    "speaker": "Speaker_04_Voice_Cluster_02",
+    "speaker_turn": 5,
+    "start": 975.3,
+    "end": 991.04,
+    "hms": "00h16m15s-00h16m31s",
+    "file_name": "Speaker_04_Voice_Cluster_02_turn05_global025_00h16m15s-00h16m31s.mp4",
+    "text_preview": "[Uncaptioned archival audio segment \u2014 acoustically diarized]"
+  },
+  {
+    "global_idx": 26,
+    "speaker": "Speaker_06_Voice_Cluster_06",
+    "speaker_turn": 6,
+    "start": 992.26,
+    "end": 1114.05,
+    "hms": "00h16m32s-00h18m34s",
+    "file_name": "Speaker_06_Voice_Cluster_06_turn06_global026_00h16m32s-00h18m34s.mp4",
+    "text_preview": "[Uncaptioned archival audio segment \u2014 acoustically diarized] [Uncaptioned archival audio segment \u2014 acoustically diarized] [Uncaptioned archival audio segment \u2014 acoustically diarized] [Uncaptioned archival audio segment \u2014"
+  },
+  {
+    "global_idx": 27,
+    "speaker": "Speaker_01_Voice_Cluster_05",
+    "speaker_turn": 3,
+    "start": 1116.8,
+    "end": 1136.38,
+    "hms": "00h18m37s-00h18m56s",
+    "file_name": "Speaker_01_Voice_Cluster_05_turn03_global027_00h18m37s-00h18m56s.mp4",
+    "text_preview": "[Uncaptioned archival audio segment \u2014 acoustically diarized]"
+  },
+  {
+    "global_idx": 28,
+    "speaker": "Speaker_06_Voice_Cluster_06",
+    "speaker_turn": 7,
+    "start": 1139.2,
+    "end": 1145.34,
+    "hms": "00h18m59s-00h19m05s",
+    "file_name": "Speaker_06_Voice_Cluster_06_turn07_global028_00h18m59s-00h19m05s.mp4",
+    "text_preview": "[Uncaptioned archival audio segment \u2014 acoustically diarized]"
+  },
+  {
+    "global_idx": 29,
+    "speaker": "Speaker_04_Voice_Cluster_02",
+    "speaker_turn": 6,
+    "start": 1161.66,
+    "end": 1170.75,
+    "hms": "00h19m22s-00h19m31s",
+    "file_name": "Speaker_04_Voice_Cluster_02_turn06_global029_00h19m22s-00h19m31s.mp4",
+    "text_preview": "[Uncaptioned archival audio segment \u2014 acoustically diarized]"
+  },
+  {
+    "global_idx": 30,
+    "speaker": "Speaker_06_Voice_Cluster_06",
+    "speaker_turn": 8,
+    "start": 1173.06,
+    "end": 1307.26,
+    "hms": "00h19m33s-00h21m47s",
+    "file_name": "Speaker_06_Voice_Cluster_06_turn08_global030_00h19m33s-00h21m47s.mp4",
+    "text_preview": "[Uncaptioned archival audio segment \u2014 acoustically diarized] [Uncaptioned archival audio segment \u2014 acoustically diarized] [Uncaptioned archival audio segment \u2014 acoustically diarized]"
+  },
+  {
+    "global_idx": 31,
+    "speaker": "Speaker_04_Voice_Cluster_02",
+    "speaker_turn": 7,
+    "start": 1310.4,
+    "end": 1322.37,
+    "hms": "00h21m50s-00h22m02s",
+    "file_name": "Speaker_04_Voice_Cluster_02_turn07_global031_00h21m50s-00h22m02s.mp4",
+    "text_preview": "[Uncaptioned archival audio segment \u2014 acoustically diarized]"
+  },
+  {
+    "global_idx": 32,
+    "speaker": "Speaker_06_Voice_Cluster_06",
+    "speaker_turn": 9,
+    "start": 1325.06,
+    "end": 1397.06,
+    "hms": "00h22m05s-00h23m17s",
+    "file_name": "Speaker_06_Voice_Cluster_06_turn09_global032_00h22m05s-00h23m17s.mp4",
+    "text_preview": "[Uncaptioned archival audio segment \u2014 acoustically diarized] [Uncaptioned archival audio segment \u2014 acoustically diarized]"
+  },
+  {
+    "global_idx": 33,
+    "speaker": "Speaker_03_Voice_Cluster_04",
+    "speaker_turn": 6,
+    "start": 1402.5,
+    "end": 1427.52,
+    "hms": "00h23m22s-00h23m48s",
+    "file_name": "Speaker_03_Voice_Cluster_04_turn06_global033_00h23m22s-00h23m48s.mp4",
+    "text_preview": "[Uncaptioned archival audio segment \u2014 acoustically diarized] [Uncaptioned archival audio segment \u2014 acoustically diarized]"
+  },
+  {
+    "global_idx": 34,
+    "speaker": "Speaker_03_Voice_Cluster_04",
+    "speaker_turn": 7,
+    "start": 1437.76,
+    "end": 1449.02,
+    "hms": "00h23m58s-00h24m09s",
+    "file_name": "Speaker_03_Voice_Cluster_04_turn07_global034_00h23m58s-00h24m09s.mp4",
+    "text_preview": "[Uncaptioned archival audio segment \u2014 acoustically diarized]"
+  },
+  {
+    "global_idx": 35,
+    "speaker": "Speaker_06_Voice_Cluster_06",
+    "speaker_turn": 10,
+    "start": 1458.11,
+    "end": 1582.59,
+    "hms": "00h24m18s-00h26m23s",
+    "file_name": "Speaker_06_Voice_Cluster_06_turn10_global035_00h24m18s-00h26m23s.mp4",
+    "text_preview": "[Uncaptioned archival audio segment \u2014 acoustically diarized] [Uncaptioned archival audio segment \u2014 acoustically diarized] [Uncaptioned archival audio segment \u2014 acoustically diarized]"
+  },
+  {
+    "global_idx": 36,
+    "speaker": "Speaker_05_Voice_Cluster_10",
+    "speaker_turn": 3,
+    "start": 1583.3,
+    "end": 1607.87,
+    "hms": "00h26m23s-00h26m48s",
+    "file_name": "Speaker_05_Voice_Cluster_10_turn03_global036_00h26m23s-00h26m48s.mp4",
+    "text_preview": "[Uncaptioned archival audio segment \u2014 acoustically diarized]"
+  },
+  {
+    "global_idx": 37,
+    "speaker": "Speaker_01_Voice_Cluster_05",
+    "speaker_turn": 4,
+    "start": 1632.58,
+    "end": 1662.4,
+    "hms": "00h27m13s-00h27m42s",
+    "file_name": "Speaker_01_Voice_Cluster_05_turn04_global037_00h27m13s-00h27m42s.mp4",
+    "text_preview": "[Uncaptioned archival audio segment \u2014 acoustically diarized] [Uncaptioned archival audio segment \u2014 acoustically diarized] [Uncaptioned archival audio segment \u2014 acoustically diarized] [Uncaptioned archival audio segment \u2014"
+  },
+  {
+    "global_idx": 38,
+    "speaker": "Speaker_06_Voice_Cluster_06",
+    "speaker_turn": 11,
+    "start": 1666.62,
+    "end": 1723.71,
+    "hms": "00h27m47s-00h28m44s",
+    "file_name": "Speaker_06_Voice_Cluster_06_turn11_global038_00h27m47s-00h28m44s.mp4",
+    "text_preview": "[Uncaptioned archival audio segment \u2014 acoustically diarized] [Uncaptioned archival audio segment \u2014 acoustically diarized]"
+  },
+  {
+    "global_idx": 39,
+    "speaker": "Speaker_03_Voice_Cluster_04",
+    "speaker_turn": 8,
+    "start": 1728.0,
+    "end": 1729.73,
+    "hms": "00h28m48s-00h28m50s",
+    "file_name": "Speaker_03_Voice_Cluster_04_turn08_global039_00h28m48s-00h28m50s.mp4",
+    "text_preview": "[Uncaptioned archival audio segment \u2014 acoustically diarized]"
+  },
+  {
+    "global_idx": 40,
+    "speaker": "Speaker_06_Voice_Cluster_06",
+    "speaker_turn": 12,
+    "start": 1731.65,
+    "end": 1779.71,
+    "hms": "00h28m52s-00h29m40s",
+    "file_name": "Speaker_06_Voice_Cluster_06_turn12_global040_00h28m52s-00h29m40s.mp4",
+    "text_preview": "[Uncaptioned archival audio segment \u2014 acoustically diarized] [Uncaptioned archival audio segment \u2014 acoustically diarized]"
+  },
+  {
+    "global_idx": 41,
+    "speaker": "Speaker_03_Voice_Cluster_04",
+    "speaker_turn": 9,
+    "start": 1784.26,
+    "end": 1786.5,
+    "hms": "00h29m44s-00h29m46s",
+    "file_name": "Speaker_03_Voice_Cluster_04_turn09_global041_00h29m44s-00h29m46s.mp4",
+    "text_preview": "[Uncaptioned archival audio segment \u2014 acoustically diarized]"
+  },
+  {
+    "global_idx": 42,
+    "speaker": "Speaker_07_Voice_Cluster_03",
+    "speaker_turn": 2,
+    "start": 1789.06,
+    "end": 1798.02,
+    "hms": "00h29m49s-00h29m58s",
+    "file_name": "Speaker_07_Voice_Cluster_03_turn02_global042_00h29m49s-00h29m58s.mp4",
+    "text_preview": "[Uncaptioned archival audio segment \u2014 acoustically diarized]"
+  },
+  {
+    "global_idx": 43,
+    "speaker": "Speaker_06_Voice_Cluster_06",
+    "speaker_turn": 13,
+    "start": 1799.62,
+    "end": 1831.1,
+    "hms": "00h30m00s-00h30m31s",
+    "file_name": "Speaker_06_Voice_Cluster_06_turn13_global043_00h30m00s-00h30m31s.mp4",
+    "text_preview": "[Uncaptioned archival audio segment \u2014 acoustically diarized]"
+  },
+  {
+    "global_idx": 44,
+    "speaker": "Speaker_06_Voice_Cluster_06",
+    "speaker_turn": 14,
+    "start": 1862.85,
+    "end": 1886.27,
+    "hms": "00h31m03s-00h31m26s",
+    "file_name": "Speaker_06_Voice_Cluster_06_turn14_global044_00h31m03s-00h31m26s.mp4",
+    "text_preview": "[Uncaptioned archival audio segment \u2014 acoustically diarized]"
+  },
+  {
+    "global_idx": 45,
+    "speaker": "Speaker_07_Voice_Cluster_03",
+    "speaker_turn": 3,
+    "start": 1887.62,
+    "end": 1892.48,
+    "hms": "00h31m28s-00h31m32s",
+    "file_name": "Speaker_07_Voice_Cluster_03_turn03_global045_00h31m28s-00h31m32s.mp4",
+    "text_preview": "[Uncaptioned archival audio segment \u2014 acoustically diarized]"
+  },
+  {
+    "global_idx": 46,
+    "speaker": "Speaker_06_Voice_Cluster_06",
+    "speaker_turn": 15,
+    "start": 1895.68,
+    "end": 1924.48,
+    "hms": "00h31m36s-00h32m04s",
+    "file_name": "Speaker_06_Voice_Cluster_06_turn15_global046_00h31m36s-00h32m04s.mp4",
+    "text_preview": "[Uncaptioned archival audio segment \u2014 acoustically diarized]"
+  },
+  {
+    "global_idx": 47,
+    "speaker": "Speaker_04_Voice_Cluster_02",
+    "speaker_turn": 8,
+    "start": 1930.75,
+    "end": 1941.5,
+    "hms": "00h32m11s-00h32m22s",
+    "file_name": "Speaker_04_Voice_Cluster_02_turn08_global047_00h32m11s-00h32m22s.mp4",
+    "text_preview": "[Uncaptioned archival audio segment \u2014 acoustically diarized]"
+  },
+  {
+    "global_idx": 48,
+    "speaker": "Speaker_05_Voice_Cluster_10",
+    "speaker_turn": 4,
+    "start": 1943.81,
+    "end": 1963.01,
+    "hms": "00h32m24s-00h32m43s",
+    "file_name": "Speaker_05_Voice_Cluster_10_turn04_global048_00h32m24s-00h32m43s.mp4",
+    "text_preview": "[Uncaptioned archival audio segment \u2014 acoustically diarized]"
+  },
+  {
+    "global_idx": 49,
+    "speaker": "Speaker_08_Voice_Cluster_01",
+    "speaker_turn": 2,
+    "start": 1967.17,
+    "end": 1999.81,
+    "hms": "00h32m47s-00h33m20s",
+    "file_name": "Speaker_08_Voice_Cluster_01_turn02_global049_00h32m47s-00h33m20s.mp4",
+    "text_preview": "[Uncaptioned archival audio segment \u2014 acoustically diarized]"
+  },
+  {
+    "global_idx": 50,
+    "speaker": "Speaker_03_Voice_Cluster_04",
+    "speaker_turn": 10,
+    "start": 2001.47,
+    "end": 2015.23,
+    "hms": "00h33m21s-00h33m35s",
+    "file_name": "Speaker_03_Voice_Cluster_04_turn10_global050_00h33m21s-00h33m35s.mp4",
+    "text_preview": "[Uncaptioned archival audio segment \u2014 acoustically diarized] [Uncaptioned archival audio segment \u2014 acoustically diarized]"
+  },
+  {
+    "global_idx": 51,
+    "speaker": "Speaker_04_Voice_Cluster_02",
+    "speaker_turn": 9,
+    "start": 2018.62,
+    "end": 2046.72,
+    "hms": "00h33m39s-00h34m07s",
+    "file_name": "Speaker_04_Voice_Cluster_02_turn09_global051_00h33m39s-00h34m07s.mp4",
+    "text_preview": "[Uncaptioned archival audio segment \u2014 acoustically diarized] [Uncaptioned archival audio segment \u2014 acoustically diarized]"
+  },
+  {
+    "global_idx": 52,
+    "speaker": "Speaker_08_Voice_Cluster_01",
+    "speaker_turn": 3,
+    "start": 2050.69,
+    "end": 2072.9,
+    "hms": "00h34m11s-00h34m33s",
+    "file_name": "Speaker_08_Voice_Cluster_01_turn03_global052_00h34m11s-00h34m33s.mp4",
+    "text_preview": "[Uncaptioned archival audio segment \u2014 acoustically diarized]"
+  },
+  {
+    "global_idx": 53,
+    "speaker": "Speaker_03_Voice_Cluster_04",
+    "speaker_turn": 11,
+    "start": 2078.08,
+    "end": 2082.37,
+    "hms": "00h34m38s-00h34m42s",
+    "file_name": "Speaker_03_Voice_Cluster_04_turn11_global053_00h34m38s-00h34m42s.mp4",
+    "text_preview": "[Uncaptioned archival audio segment \u2014 acoustically diarized]"
+  },
+  {
+    "global_idx": 54,
+    "speaker": "Speaker_08_Voice_Cluster_01",
+    "speaker_turn": 4,
+    "start": 2084.16,
+    "end": 2088.0,
+    "hms": "00h34m44s-00h34m48s",
+    "file_name": "Speaker_08_Voice_Cluster_01_turn04_global054_00h34m44s-00h34m48s.mp4",
+    "text_preview": "[Uncaptioned archival audio segment \u2014 acoustically diarized]"
+  },
+  {
+    "global_idx": 55,
+    "speaker": "Speaker_08_Voice_Cluster_01",
+    "speaker_turn": 5,
+    "start": 2098.11,
+    "end": 2104.77,
+    "hms": "00h34m58s-00h35m05s",
+    "file_name": "Speaker_08_Voice_Cluster_01_turn05_global055_00h34m58s-00h35m05s.mp4",
+    "text_preview": "[Uncaptioned archival audio segment \u2014 acoustically diarized]"
+  },
+  {
+    "global_idx": 56,
+    "speaker": "Speaker_05_Voice_Cluster_10",
+    "speaker_turn": 5,
+    "start": 2110.46,
+    "end": 2116.93,
+    "hms": "00h35m10s-00h35m17s",
+    "file_name": "Speaker_05_Voice_Cluster_10_turn05_global056_00h35m10s-00h35m17s.mp4",
+    "text_preview": "[Uncaptioned archival audio segment \u2014 acoustically diarized]"
+  },
+  {
+    "global_idx": 57,
+    "speaker": "Speaker_09_Voice_Cluster_08",
+    "speaker_turn": 1,
+    "start": 2121.34,
+    "end": 2124.99,
+    "hms": "00h35m21s-00h35m25s",
+    "file_name": "Speaker_09_Voice_Cluster_08_turn01_global057_00h35m21s-00h35m25s.mp4",
+    "text_preview": "[Uncaptioned archival audio segment \u2014 acoustically diarized]"
+  },
+  {
+    "global_idx": 58,
+    "speaker": "Speaker_01_Voice_Cluster_05",
+    "speaker_turn": 5,
+    "start": 2126.27,
+    "end": 2156.74,
+    "hms": "00h35m26s-00h35m57s",
+    "file_name": "Speaker_01_Voice_Cluster_05_turn05_global058_00h35m26s-00h35m57s.mp4",
+    "text_preview": "[Uncaptioned archival audio segment \u2014 acoustically diarized]"
+  },
+  {
+    "global_idx": 59,
+    "speaker": "Speaker_06_Voice_Cluster_06",
+    "speaker_turn": 16,
+    "start": 2158.91,
+    "end": 2177.79,
+    "hms": "00h35m59s-00h36m18s",
+    "file_name": "Speaker_06_Voice_Cluster_06_turn16_global059_00h35m59s-00h36m18s.mp4",
+    "text_preview": "[Uncaptioned archival audio segment \u2014 acoustically diarized]"
+  },
+  {
+    "global_idx": 60,
+    "speaker": "Speaker_07_Voice_Cluster_03",
+    "speaker_turn": 4,
+    "start": 2179.58,
+    "end": 2210.24,
+    "hms": "00h36m20s-00h36m50s",
+    "file_name": "Speaker_07_Voice_Cluster_03_turn04_global060_00h36m20s-00h36m50s.mp4",
+    "text_preview": "[Uncaptioned archival audio segment \u2014 acoustically diarized]"
+  },
+  {
+    "global_idx": 61,
+    "speaker": "Speaker_03_Voice_Cluster_04",
+    "speaker_turn": 12,
+    "start": 2215.42,
+    "end": 2219.97,
+    "hms": "00h36m55s-00h37m00s",
+    "file_name": "Speaker_03_Voice_Cluster_04_turn12_global061_00h36m55s-00h37m00s.mp4",
+    "text_preview": "[Uncaptioned archival audio segment \u2014 acoustically diarized]"
+  },
+  {
+    "global_idx": 62,
+    "speaker": "Speaker_10_Voice_Cluster_09",
+    "speaker_turn": 1,
+    "start": 2227.26,
+    "end": 2232.64,
+    "hms": "00h37m07s-00h37m13s",
+    "file_name": "Speaker_10_Voice_Cluster_09_turn01_global062_00h37m07s-00h37m13s.mp4",
+    "text_preview": "[Uncaptioned archival audio segment \u2014 acoustically diarized]"
+  },
+  {
+    "global_idx": 63,
+    "speaker": "Speaker_05_Voice_Cluster_10",
+    "speaker_turn": 6,
+    "start": 2233.98,
+    "end": 2243.26,
+    "hms": "00h37m14s-00h37m23s",
+    "file_name": "Speaker_05_Voice_Cluster_10_turn06_global063_00h37m14s-00h37m23s.mp4",
+    "text_preview": "[Uncaptioned archival audio segment \u2014 acoustically diarized]"
+  },
+  {
+    "global_idx": 64,
+    "speaker": "Speaker_07_Voice_Cluster_03",
+    "speaker_turn": 5,
+    "start": 2244.54,
+    "end": 2261.18,
+    "hms": "00h37m25s-00h37m41s",
+    "file_name": "Speaker_07_Voice_Cluster_03_turn05_global064_00h37m25s-00h37m41s.mp4",
+    "text_preview": "[Uncaptioned archival audio segment \u2014 acoustically diarized]"
+  },
+  {
+    "global_idx": 65,
+    "speaker": "Speaker_08_Voice_Cluster_01",
+    "speaker_turn": 6,
+    "start": 2265.02,
+    "end": 2292.16,
+    "hms": "00h37m45s-00h38m12s",
+    "file_name": "Speaker_08_Voice_Cluster_01_turn06_global065_00h37m45s-00h38m12s.mp4",
+    "text_preview": "[Uncaptioned archival audio segment \u2014 acoustically diarized]"
+  },
+  {
+    "global_idx": 66,
+    "speaker": "Speaker_05_Voice_Cluster_10",
+    "speaker_turn": 7,
+    "start": 2296.45,
+    "end": 2306.62,
+    "hms": "00h38m16s-00h38m27s",
+    "file_name": "Speaker_05_Voice_Cluster_10_turn07_global066_00h38m16s-00h38m27s.mp4",
+    "text_preview": "[Uncaptioned archival audio segment \u2014 acoustically diarized]"
+  },
+  {
+    "global_idx": 67,
+    "speaker": "Speaker_06_Voice_Cluster_06",
+    "speaker_turn": 17,
+    "start": 2308.93,
+    "end": 2512.0,
+    "hms": "00h38m29s-00h41m52s",
+    "file_name": "Speaker_06_Voice_Cluster_06_turn17_global067_00h38m29s-00h41m52s.mp4",
+    "text_preview": "[Uncaptioned archival audio segment \u2014 acoustically diarized] [Uncaptioned archival audio segment \u2014 acoustically diarized] [Uncaptioned archival audio segment \u2014 acoustically diarized] [Uncaptioned archival audio segment \u2014"
+  },
+  {
+    "global_idx": 68,
+    "speaker": "Speaker_07_Voice_Cluster_03",
+    "speaker_turn": 6,
+    "start": 2545.15,
+    "end": 2548.54,
+    "hms": "00h42m25s-00h42m29s",
+    "file_name": "Speaker_07_Voice_Cluster_03_turn06_global068_00h42m25s-00h42m29s.mp4",
+    "text_preview": "[Uncaptioned archival audio segment \u2014 acoustically diarized]"
+  },
+  {
+    "global_idx": 69,
+    "speaker": "Speaker_06_Voice_Cluster_06",
+    "speaker_turn": 18,
+    "start": 2550.78,
+    "end": 2589.57,
+    "hms": "00h42m31s-00h43m10s",
+    "file_name": "Speaker_06_Voice_Cluster_06_turn18_global069_00h42m31s-00h43m10s.mp4",
+    "text_preview": "[Uncaptioned archival audio segment \u2014 acoustically diarized]"
+  },
+  {
+    "global_idx": 70,
+    "speaker": "Speaker_04_Voice_Cluster_02",
+    "speaker_turn": 10,
+    "start": 2594.18,
+    "end": 2597.57,
+    "hms": "00h43m14s-00h43m18s",
+    "file_name": "Speaker_04_Voice_Cluster_02_turn10_global070_00h43m14s-00h43m18s.mp4",
+    "text_preview": "[Uncaptioned archival audio segment \u2014 acoustically diarized]"
+  },
+  {
+    "global_idx": 71,
+    "speaker": "Speaker_06_Voice_Cluster_06",
+    "speaker_turn": 19,
+    "start": 2601.86,
+    "end": 2646.4,
+    "hms": "00h43m22s-00h44m06s",
+    "file_name": "Speaker_06_Voice_Cluster_06_turn19_global071_00h43m22s-00h44m06s.mp4",
+    "text_preview": "[Uncaptioned archival audio segment \u2014 acoustically diarized]"
+  },
+  {
+    "global_idx": 72,
+    "speaker": "Speaker_03_Voice_Cluster_04",
+    "speaker_turn": 13,
+    "start": 2647.42,
+    "end": 2650.05,
+    "hms": "00h44m07s-00h44m10s",
+    "file_name": "Speaker_03_Voice_Cluster_04_turn13_global072_00h44m07s-00h44m10s.mp4",
+    "text_preview": "[Uncaptioned archival audio segment \u2014 acoustically diarized]"
+  },
+  {
+    "global_idx": 73,
+    "speaker": "Speaker_02_Voice_Cluster_07",
+    "speaker_turn": 5,
+    "start": 2655.74,
+    "end": 2661.89,
+    "hms": "00h44m16s-00h44m22s",
+    "file_name": "Speaker_02_Voice_Cluster_07_turn05_global073_00h44m16s-00h44m22s.mp4",
+    "text_preview": "[Uncaptioned archival audio segment \u2014 acoustically diarized]"
+  },
+  {
+    "global_idx": 74,
+    "speaker": "Speaker_04_Voice_Cluster_02",
+    "speaker_turn": 11,
+    "start": 2668.61,
+    "end": 2675.9,
+    "hms": "00h44m29s-00h44m36s",
+    "file_name": "Speaker_04_Voice_Cluster_02_turn11_global074_00h44m29s-00h44m36s.mp4",
+    "text_preview": "[Uncaptioned archival audio segment \u2014 acoustically diarized]"
+  },
+  {
+    "global_idx": 75,
+    "speaker": "Speaker_02_Voice_Cluster_07",
+    "speaker_turn": 6,
+    "start": 2677.25,
+    "end": 2680.58,
+    "hms": "00h44m37s-00h44m41s",
+    "file_name": "Speaker_02_Voice_Cluster_07_turn06_global075_00h44m37s-00h44m41s.mp4",
+    "text_preview": "[Uncaptioned archival audio segment \u2014 acoustically diarized]"
+  },
+  {
+    "global_idx": 76,
+    "speaker": "Speaker_03_Voice_Cluster_04",
+    "speaker_turn": 14,
+    "start": 2681.98,
+    "end": 2687.23,
+    "hms": "00h44m42s-00h44m47s",
+    "file_name": "Speaker_03_Voice_Cluster_04_turn14_global076_00h44m42s-00h44m47s.mp4",
+    "text_preview": "[Uncaptioned archival audio segment \u2014 acoustically diarized]"
+  },
+  {
+    "global_idx": 77,
+    "speaker": "Speaker_02_Voice_Cluster_07",
+    "speaker_turn": 7,
+    "start": 2690.56,
+    "end": 2714.62,
+    "hms": "00h44m51s-00h45m15s",
+    "file_name": "Speaker_02_Voice_Cluster_07_turn07_global077_00h44m51s-00h45m15s.mp4",
+    "text_preview": "[Uncaptioned archival audio segment \u2014 acoustically diarized] [Uncaptioned archival audio segment \u2014 acoustically diarized]"
+  },
+  {
+    "global_idx": 78,
+    "speaker": "Speaker_04_Voice_Cluster_02",
+    "speaker_turn": 12,
+    "start": 2716.35,
+    "end": 2720.96,
+    "hms": "00h45m16s-00h45m21s",
+    "file_name": "Speaker_04_Voice_Cluster_02_turn12_global078_00h45m16s-00h45m21s.mp4",
+    "text_preview": "[Uncaptioned archival audio segment \u2014 acoustically diarized]"
+  }
+]
