@@ -1,0 +1,21 @@
+{
+  "identifier": "cochwy-11-4-22_KLWY-FOX_27_Mayor_Collins_Interview",
+  "title": "11-4-22 KLWY-FOX 27 Mayor Collins Interview",
+  "date": "2022-11-07",
+  "season": 11,
+  "repo": "therealwindycity/cheyenne-archives-2022",
+  "release_tag": "speaker-videos-2022-11-07-s_Interview",
+  "release_url": "https://github.com/therealwindycity/cheyenne-archives-2022/releases/tag/speaker-videos-2022-11-07-s_Interview",
+  "archive_embed_url": "https://archive.org/embed/cochwy-11-4-22_KLWY-FOX_27_Mayor_Collins_Interview",
+  "archive_stream_url": "https://archive.org/download/cochwy-11-4-22_KLWY-FOX_27_Mayor_Collins_Interview/11-4-22_KLWY-FOX_27_Mayor_Collins_Interview.mp4",
+  "cast": [
+    {
+      "speaker": "Speaker_01_Voice_Cluster_01",
+      "clips_count": 1,
+      "size_bytes": 37545219,
+      "zip_url": "https://github.com/therealwindycity/cheyenne-archives-2022/releases/download/speaker-videos-2022-11-07-s_Interview/Speaker_01_Voice_Cluster_01_01_clips.zip"
+    }
+  ],
+  "ordinances": [],
+  "turns_count": 1
+}
