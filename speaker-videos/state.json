@@ -181,6 +181,19 @@
       "speakers": 10,
       "clips": 250,
       "status": "published"
+    },
+    "cochwy-11-4-22_KLWY-FOX_27_Mayor_Collins_Interview": {
+      "identifier": "cochwy-11-4-22_KLWY-FOX_27_Mayor_Collins_Interview",
+      "date": "2022-11-07",
+      "title": "11-4-22 KLWY-FOX 27 Mayor Collins Interview",
+      "repo": "therealwindycity/cheyenne-archives-2022",
+      "release_tag": "speaker-videos-2022-11-07-s_Interview",
+      "release_url": "https://github.com/therealwindycity/cheyenne-archives-2022/releases/tag/speaker-videos-2022-11-07-s_Interview",
+      "index_path": "speaker-videos/2022-11-07_11-4-22_KLWY-FOX_27_Mayor_Collins_Interview/SPEAKER_INDEX.md",
+      "episode_json": "speaker-videos/2022-11-07_11-4-22_KLWY-FOX_27_Mayor_Collins_Interview/episode.json",
+      "speakers": 1,
+      "clips": 1,
+      "status": "published"
     }
   }
 }
