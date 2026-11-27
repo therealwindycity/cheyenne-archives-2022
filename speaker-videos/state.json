@@ -324,6 +324,19 @@
       "speakers": 10,
       "clips": 136,
       "status": "published"
+    },
+    "cochwy-Work_Session_10-07-22": {
+      "identifier": "cochwy-Work_Session_10-07-22",
+      "date": "2022-10-08",
+      "title": "Work Session 10-07-22",
+      "repo": "therealwindycity/cheyenne-archives-2022",
+      "release_tag": "speaker-videos-2022-10-08-on_10-07-22",
+      "release_url": "https://github.com/therealwindycity/cheyenne-archives-2022/releases/tag/speaker-videos-2022-10-08-on_10-07-22",
+      "index_path": "speaker-videos/2022-10-08_Work_Session_10-07-22/SPEAKER_INDEX.md",
+      "episode_json": "speaker-videos/2022-10-08_Work_Session_10-07-22/episode.json",
+      "speakers": 1,
+      "clips": 1,
+      "status": "published"
     }
   }
 }
