@@ -233,6 +233,19 @@
       "speakers": 10,
       "clips": 47,
       "status": "published"
+    },
+    "cochwy-10-14-22_MAYOR_COLLINS_FULL_INTERVIEW": {
+      "identifier": "cochwy-10-14-22_MAYOR_COLLINS_FULL_INTERVIEW",
+      "date": "2022-10-19",
+      "title": "10-14-22 MAYOR COLLINS FULL INTERVIEW",
+      "repo": "therealwindycity/cheyenne-archives-2022",
+      "release_tag": "speaker-videos-2022-10-19-L_INTERVIEW",
+      "release_url": "https://github.com/therealwindycity/cheyenne-archives-2022/releases/tag/speaker-videos-2022-10-19-L_INTERVIEW",
+      "index_path": "speaker-videos/2022-10-19_10-14-22_MAYOR_COLLINS_FULL_INTERVIEW/SPEAKER_INDEX.md",
+      "episode_json": "speaker-videos/2022-10-19_10-14-22_MAYOR_COLLINS_FULL_INTERVIEW/episode.json",
+      "speakers": 1,
+      "clips": 1,
+      "status": "published"
     }
   }
 }
