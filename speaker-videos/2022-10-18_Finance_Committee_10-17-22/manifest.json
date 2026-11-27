@@ -1,12 +1,13 @@
 [
   {
     "global_idx": 1,
-    "speaker": "Speaker_01_Brad_Brooks",
+    "speaker": "Speaker_01_Unverified_Voice",
     "speaker_turn": 1,
     "start": 33.9,
     "end": 2150.24,
     "hms": "00h00m34s-00h35m50s",
     "file_name": "Speaker_01_Brad_Brooks_turn01_global001_00h00m34s-00h35m50s.mp4",
-    "text_preview": "[Music] get started uh welcome everyone to the October 17 2022 finance committee meeting uh just a couple of housekeeping notes if you could please make sure your cell phones are either uh on mute or vibrate uh for those"
+    "text_preview": "[Music] get started uh welcome everyone to the October 17 2022 finance committee meeting uh just a couple of housekeeping notes if you could please make sure your cell phones are either uh on mute or vibrate uh for those",
+    "speaker_original_automatic_label": "Speaker_01_Brad_Brooks"
   }
 ]

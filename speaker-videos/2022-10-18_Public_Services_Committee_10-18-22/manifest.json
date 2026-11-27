@@ -1,12 +1,13 @@
 [
   {
     "global_idx": 1,
-    "speaker": "Speaker_01_Meeting_Chair",
+    "speaker": "Speaker_01_Unverified_Voice",
     "speaker_turn": 1,
     "start": 3.21,
     "end": 5336.12,
     "hms": "00h00m03s-01h28m56s",
     "file_name": "Speaker_01_Meeting_Chair_turn01_global001_00h00m03s-01h28m56s.mp4",
-    "text_preview": "[Music] just he'll just join us when he gets here but we do have a quorum so we're going to go ahead and get started uh welcome everybody I'm assuming you're here for I know I spoke to the gentleman in the in the Hokies "
+    "text_preview": "[Music] just he'll just join us when he gets here but we do have a quorum so we're going to go ahead and get started uh welcome everybody I'm assuming you're here for I know I spoke to the gentleman in the in the Hokies ",
+    "speaker_original_automatic_label": "Speaker_01_Meeting_Chair"
   }
 ]

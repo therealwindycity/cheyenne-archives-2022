@@ -1,12 +1,13 @@
 [
   {
     "global_idx": 1,
-    "speaker": "Speaker_01_Meeting_Chair",
+    "speaker": "Speaker_01_Unverified_Voice",
     "speaker_turn": 1,
     "start": 33.6,
     "end": 1717.34,
     "hms": "00h00m34s-00h28m37s",
     "file_name": "Speaker_01_Meeting_Chair_turn01_global001_00h00m34s-00h28m37s.mp4",
-    "text_preview": "7th 2022 finance committee meeting I hope everybody had a great Halloween um just a quick housekeeping notes uh for those on Zoom uh Dr Aldridge and Mr esquel are with me here in the committee room councilman Johnson is "
+    "text_preview": "7th 2022 finance committee meeting I hope everybody had a great Halloween um just a quick housekeeping notes uh for those on Zoom uh Dr Aldridge and Mr esquel are with me here in the committee room councilman Johnson is ",
+    "speaker_original_automatic_label": "Speaker_01_Meeting_Chair"
   }
 ]
