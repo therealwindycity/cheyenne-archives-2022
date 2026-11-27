@@ -285,6 +285,19 @@
       "speakers": 1,
       "clips": 1,
       "status": "published"
+    },
+    "cochwy-County-Wide_Fifth_Penny_Sales_Tax": {
+      "identifier": "cochwy-County-Wide_Fifth_Penny_Sales_Tax",
+      "date": "2022-10-13",
+      "title": "County-Wide Fifth Penny Sales Tax",
+      "repo": "therealwindycity/cheyenne-archives-2022",
+      "release_tag": "speaker-videos-2022-10-13-y_Sales_Tax",
+      "release_url": "https://github.com/therealwindycity/cheyenne-archives-2022/releases/tag/speaker-videos-2022-10-13-y_Sales_Tax",
+      "index_path": "speaker-videos/2022-10-13_County-Wide_Fifth_Penny_Sales_Tax/SPEAKER_INDEX.md",
+      "episode_json": "speaker-videos/2022-10-13_County-Wide_Fifth_Penny_Sales_Tax/episode.json",
+      "speakers": 1,
+      "clips": 1,
+      "status": "published"
     }
   }
 }
